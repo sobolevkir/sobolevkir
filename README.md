@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&fontColor=FFFFFF&fontSize=28&animation=fadeIn&reversal=false"/>
+</p>
 
 <!--
 **sobolevkir/sobolevkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
