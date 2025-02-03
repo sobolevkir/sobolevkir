@@ -4,6 +4,8 @@
 
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="android" width="25" height="25"/>&nbsp;A Little Bit About Me 🥸</h2>
 
+Now I am working towards transitioning my career to the field that truly inspires me.
+
 - 🔭 Recently Developed: https://github.com/sobolevkir/AIPostcard
 - 👨🏼‍🎓 Education: BMSTU, 2015
 - 🌱 Currently learning: *Advanced Android*
