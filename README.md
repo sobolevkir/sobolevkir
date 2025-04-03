@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&fontColor=FFFFFF&fontSize=28&animation=fadeIn&reversal=false"/>
 </p>
 
-<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="android" width="23" height="23"/>&nbsp;A Little Bit About Me&nbsp;🥸</h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="android" width="23" height="23"/>&nbsp;A Little Bit About Me</h2>
 
 - 🔥 Recently Developed: https://github.com/sobolevkir/AIPostcard
 - 👨🏼‍🎓 Education: BMSTU 2015, Yandex Practicum (Android Developer) 2024
